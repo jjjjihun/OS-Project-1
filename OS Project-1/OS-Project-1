@@ -11,11 +11,11 @@ int main(void)
 {
     int year, month, th;
 
-    printf("ÇØ´ç ³âÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+    printf("í•´ë‹¹ ë…„ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
     scanf("%d", &year);
     YEAR = year;
 
-    printf("ÇØ´ç ¿ùÀ» ÀÔ·ÂÇÏ½Ã¿À: ");
+    printf("í•´ë‹¹ ì›”ì„ ì…ë ¥í•˜ì‹œì˜¤: ");
     scanf("%d", &month);
     MONTH = month;
 
